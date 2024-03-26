@@ -25,4 +25,4 @@ This web application utilizes the GitHub API to display limited user data and pr
 
 ## Deploy
 
-This project Deployon on Vercel.
+This project Deployon on Vercel Link =>  url(https://git-searchify.vercel.app/)
